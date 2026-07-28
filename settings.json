@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "liemsmp.aternos.me",
-    "port": 34682,
+    "ip": "sitsmp.play.hosting",
+    "port": 18013,
     "version": "1.21.1"
   },
   "position": {
