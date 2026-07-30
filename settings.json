@@ -8,7 +8,7 @@
   "server": {
     "ip": "Imthestrongestbro.aternos.me",
     "port": 30456,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
