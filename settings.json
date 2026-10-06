@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "admin",
+    "username": "owner",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Imthestrongestbro.aternos.me",
-    "port": 30456,
+    "ip": "liemcircle.aternos.me",
+    "port": 22494,
     "version": "1.21.11"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "may thg oc cac",
-        "dit me may join cai lon",
-        "dung de t dit het ca server"
+        "c",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -40,7 +40,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
